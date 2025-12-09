@@ -1,28 +1,32 @@
-Olá! Meu nome é Gregory Moliner.
-Apaixonado por transformar dados em inteligência de negócios, atuo como Analista de Dados com experiência em desenvolvimento de dashboards interativos, automação de relatórios e análise de KPIs para apoiar decisões estratégicas. Domino ferramentas como Power BI, SQL (SQL Server, MySQL, PostgreSQL) e Python, sempre buscando extrair o máximo valor dos dados para impulsionar resultados. Já atuei em projetos que melhoraram a previsibilidade financeira, aumentaram a retenção de clientes e otimizaram processos logísticos e de compras.
+# 👋 Olá! Eu sou o Gregory Moliner.
 
-Meu objetivo é seguir evoluindo em ambientes desafiadores, onde dados e tecnologia sejam aliados para gerar impacto real no negócio.
+Apaixonado por transformar dados em inteligência de negócios, atuo como **Analista de Dados**, criando dashboards interativos, automatizando relatórios e analisando KPIs para apoiar decisões estratégicas.  
+Tenho experiência com **Power BI, SQL (SQL Server, MySQL, PostgreSQL) e Python**, sempre buscando extrair o máximo valor dos dados.
 
-🗨 Sobre mim:
-> 👨‍🎓 Formado em Administração pela FAE Centro Universitário.
+📌 Já contribuí com projetos:
+- Previsibilidade financeira.  
+- Retenção de clientes.  
+- Processos logísticos e de compras.
+- Melhoria comercial.
 
-> 👨‍🎓 Pós-Graduado em Planejamento e Gestão de Negócios pela FAE Centro Universitário.
+Atualmente, meu foco é aprofundar meus conhecimentos em **Ciência de Dados** e evoluir em ambientes desafiadores.
 
-> 👨‍🎓 Intercâmbio em Administração Internacional pela ISMAI (Instituto Universitário da Maia) - Portugal.
+---
 
-🖥 Tech Skills
+## 🗨 Sobre mim
+- 🎓 Administração — FAE Centro Universitário  
+- 🎓 Pós-graduação em Planejamento e Gestão de Negócios — FAE Centro Universitário  
+- 🌍 Intercâmbio em Administração Internacional — ISMAI, Portugal
+- 💻 Microsoft Power BI para Data Science, Versão 2.0 - DSA Academy (2021)
+- 💻 SQL Impressionador - Hashtag Treinamentos (2023)
+- 💻 Power BI Impressionador - Hashtag Treinamentos (2024)
+- 💻 Fundamentos de Linguagem Python para Análise de Dados e Data Science (2024)
+- 💻 Python Impressionador - Hashtag Treinamentos (2025)
 
-> Microsoft Excel
+---
 
-> Microsft Power BI
+## 🖥 Tecnologias que Utilizo 
 
-> SQL
-
-> Pyhton
-
-
-
-<!---
-gregorymoliner/gregorymoliner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
